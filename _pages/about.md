@@ -15,7 +15,7 @@ I am a 3rd-year PhD student at [Shanghai Jiao Tong University](https://www.sjtu.
 My research interests lie in **Multimodal learning** and **Video understanding**, with a primary focus on video agentic reasoning and multimodal Chain-of-Thought learning. If you'd like to collaborate or have any questions, feel free to reach out to me via email.
 
 ## 🚀News
-- [2026.02] Weaver has been opened to [Arxiv](https://weidixie.github.io/index.html)!
+- [2026.02] Weaver has been opened to [Arxiv](https://arxiv.org/abs/2602.05829)!
 - [2025.06] StreamFormer has been accepted to **ICCV 2025**!
 - [2025.02] AoTD has been accepted to the **CVPR 2025**!
 
@@ -34,7 +34,7 @@ My research interests lie in **Multimodal learning** and **Video understanding**
     <h4 style="margin: 4px 0; font-weight: normal;">
       <a href="https://zhengrongz.github.io/Weaver/" style="margin-right: 5px;">[Project Page]</a>
       <a href="https://github.com/zhengrongz/Weaver" style="margin-right: 5px;">[Code]</a>
-      <a href="https://arxiv.org/abs/2412.01694">[Paper]</a>
+      <a href="https://arxiv.org/abs/2602.05829">[Paper]</a>
     </h4>
   </div>
 </div>
